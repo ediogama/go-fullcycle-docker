@@ -1,4 +1,4 @@
-# Go Full Cyclle Rocks
+# Go Full Cycle Rocks
 
 For print "Full Cycle Rocks!!" on terminal run:
 
